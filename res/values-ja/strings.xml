@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ちんげん</string>
+    <string name="menu_toggle_debug">デバッグ機能のon/off</string>
+    <string name="menu_set_yutaka">豊か</string>
+    <string name="menu_set_masa">俺</string>
+    <string name="menu_set_no_bg">背景なし</string>
+    <string name="menu_high_resolution">高密度</string>
+    <string name="menu_middle_resolution">中密度</string>
+    <string name="menu_low_resolution">低密度</string>
+    <string name="menu_very_low_resolution">超低密度</string>
+    <string name="menu_start_service">サービスとして起動</string>
+
+</resources>
